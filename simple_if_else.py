@@ -20,5 +20,4 @@ elif (size=='L'):
         amount+=3
 if (extra_cheese=='Y'):
     amount+=2
-
 print("Your final bill is: $" + str(amount))
